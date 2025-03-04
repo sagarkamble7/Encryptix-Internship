@@ -58,3 +58,5 @@ The model predicts whether the passenger survived or not and displays:
 - Deploy the application online for public access.
 - Enhance UI with better interactivity and visuals.
 
+- Weather Survived or not: 0 = No, 1 = Yes
+
